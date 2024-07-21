@@ -259,7 +259,7 @@ const Signup = () => {
                   } rounded-l`}
                   onClick={() => handleTabChange("User")}
                 >
-                  User
+                  Customer
                 </button>
                 <button
                   className={`px-4 py-2 ${
