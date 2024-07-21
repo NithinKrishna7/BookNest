@@ -1,0 +1,6 @@
+.chart-container {
+    padding: 0;
+     /* Increase padding to prevent cutting off */
+    overflow: visible; /* Ensure overflow is visible */
+  }
+  
